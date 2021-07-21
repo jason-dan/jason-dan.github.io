@@ -1,2 +1,2 @@
 # jason-dan.github.io
-Home of my personal portfolio site
+Home of my personal portfolio site.
